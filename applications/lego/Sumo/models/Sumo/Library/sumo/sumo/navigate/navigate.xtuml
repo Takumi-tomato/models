@@ -104,6 +104,24 @@ INSERT INTO S_DT_PROXY
 	'',
 	'',
 	'../../../../IO DTs/IO DTs.xtuml');
+INSERT INTO O_NBATTR
+	VALUES ("0a681fb8-6c66-48d6-a8e6-c8a056d71455",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
+INSERT INTO O_BATTR
+	VALUES ("0a681fb8-6c66-48d6-a8e6-c8a056d71455",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
+INSERT INTO O_ATTR
+	VALUES ("0a681fb8-6c66-48d6-a8e6-c8a056d71455",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6",
+	"06c999fd-ced2-4bbc-ad0e-07b697e7f746",
+	'cnt_VictoryDance',
+	'',
+	'',
+	'cnt_VictoryDance',
+	0,
+	"ba5eda7a-def5-0000-0000-000000000002",
+	'',
+	'0');
 INSERT INTO O_ID
 	VALUES (0,
 	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
